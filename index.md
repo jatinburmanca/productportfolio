@@ -88,6 +88,7 @@ Led product strategy for API marketplace platform, focusing on developer experie
 
 **Impact:**
 - Revamped API marketplace UI, increasing user engagement by 40%
+- Led backlog enhancements for payment integration APIs used in telecom billing, supporting cross-functional teams focused on secure financial transaction
 - Implemented advanced deployment strategies ensuring seamless platform updates
 - Unified product and engineering teams to deliver new user onboarding experience
 

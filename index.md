@@ -95,7 +95,7 @@ Led product strategy for API marketplace platform, focusing on developer experie
 ---
 
 ### RAINTREE SYSTEMS INC. | Healthcare B2B SaaS
-**Product Owner | Product Manager** | Aug 2018-Dec 2022
+**Product Owner | Product Manager** | Aug 2015-Dec 2022
 
 Directed product strategy for specialty EMR solutions serving pediatric, physiotherapy, and behavioral health providers.
 

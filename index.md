@@ -95,7 +95,7 @@ Led product strategy for API marketplace platform, focusing on developer experie
 ---
 
 ### RAINTREE SYSTEMS INC. | Healthcare B2B SaaS
-**Product Owner | Product Manager** | Aug 2015-Dec 2022
+**Product Owner | Product Manager | Business Analyst**| Aug 2015-Dec 2022
 
 Directed product strategy for specialty EMR solutions serving pediatric, physiotherapy, and behavioral health providers.
 
@@ -104,7 +104,8 @@ Directed product strategy for specialty EMR solutions serving pediatric, physiot
 - Developed Data Aggregator tool, saving customers $5,000 per project
 - Spearheaded Telehealth integration during COVID-19
 - Improved product documentation, cutting support tickets by 40%
-
+- Gathered and translated clinical and administrative requirements into detailed business specifications for eReferral workflows, enabling faster provider coordination and reducing manual fax-based communication.
+- Mapped SOAP note workflows and collaborated with clinicians to streamline documentation pathways, improving therapist productivity and compliance.
 ---
 
 ## Skills & Expertise

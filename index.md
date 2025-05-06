@@ -105,7 +105,8 @@ Directed product strategy for specialty EMR solutions serving pediatric, physiot
 - Spearheaded Telehealth integration during COVID-19
 - Improved product documentation, cutting support tickets by 40%
 - Gathered and translated clinical and administrative requirements into detailed business specifications for eReferral workflows, enabling faster provider coordination and reducing manual fax-based communication.
-- Mapped SOAP note workflows and collaborated with clinicians to streamline documentation pathways, improving therapist productivity and compliance.
+- Mapped SOAP note workflows and collaborated with clinicians to streamline documentation pathways, improving therapist productivity and compliance
+
 ---
 
 ## Skills & Expertise
